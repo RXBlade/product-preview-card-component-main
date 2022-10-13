@@ -24,7 +24,7 @@ This is my first experience with Frontend Mentor.
 
 ### Screenshot
 
-![Screenshot of the result](./images/screenshot.png)
+![Screenshot of the result](./images/Screenshot.png)
 
 ### Links
 

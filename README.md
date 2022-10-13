@@ -28,7 +28,7 @@ This is my first experience with Frontend Mentor.
 
 ### Links
 
-- Live Site URL: [COMING SOON](...)
+- Live Site URL: [Vercel App](https://product-preview-card-component-main-iota-three.vercel.app/)
 
 ### Built with
 
